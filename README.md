@@ -18,11 +18,11 @@ CryptoPlace is a dynamic and responsive React.js application that displays real-
 
 ##  Tech Stack
 
-- **Frontend:** React.js
-- **Routing:** React Router
-- **State Management:** React Context API
-- **API:** CoinGecko
-- **Styling:** CSS3 (Media Queries)
+- Frontend: React.js
+- Routing: React Router
+- State Management: React Context API
+- API: CoinGecko
+- Styling: CSS3 (Media Queries)
 
 ---
 
@@ -59,7 +59,7 @@ _Add screenshots of the homepage and UI here_
 
 ##  Live Demo
 
-**[Live Link](#)** — *Coming soon*
+[Live Link](#) — Coming soon
 
 ---
 
@@ -88,6 +88,6 @@ This project is licensed under the MIT License.
 
 ##  Author
 
-* **Vishnu Pandey** — [LinkedIn]([https://www.linkedin.com/in/vishnu-pandey](https://www.linkedin.com/in/vishnu-pandey-3b2047360/))
+**Vishnu Pandey** — [LinkedIn]([https://www.linkedin.com/in/vishnu-pandey](https://www.linkedin.com/in/vishnu-pandey-3b2047360/))
 
 ````
