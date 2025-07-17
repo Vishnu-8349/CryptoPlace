@@ -76,7 +76,7 @@ npm run dev
 
 ##  GitHub Repo
 
-\[ Add your GitHub repo link here once pushed]
+[https://github.com/Vishnu-8349/CryptoPlace]
 
 ---
 
@@ -88,6 +88,7 @@ This project is licensed under the MIT License.
 
 ##  Author
 
-**Vishnu Pandey** — [LinkedIn]([https://www.linkedin.com/in/vishnu-pandey](https://www.linkedin.com/in/vishnu-pandey-3b2047360/))
+**Vishnu Pandey** — [LinkedIn]
+[https://www.linkedin.com/in/vishnu-pandey-3b2047360/]
 
 ````
