@@ -1,12 +1,97 @@
-# React + Vite
+---
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## `README.md` for `CryptoPlace`
 
-Currently, two official plugins are available:
+```markdown
+#  CryptoPlace
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+CryptoPlace is a dynamic and responsive React.js application that displays real-time cryptocurrency market data using the CoinGecko API. It provides live information such as prices, market cap, and percentage changes for top cryptocurrencies in a clean, minimal UI.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+##  Features
+
+-  Real-time data from [CoinGecko API](https://www.coingecko.com/en/api)
+-  Fully responsive design using media queries
+-  Top 10 cryptocurrencies display
+-  Currency formatting with symbols
+-  React Router and Context API integration
+-  Clean component architecture (Navbar, Footer, CoinCard, etc.)
+
+---
+
+##  Tech Stack
+
+- **Frontend:** React.js
+- **Routing:** React Router
+- **State Management:** React Context API
+- **API:** CoinGecko
+- **Styling:** CSS3 (Media Queries)
+
+---
+
+##  Folder Structure (Simplified)
+
+```
+
+cryptoPlace/
+├── public/
+├── src/
+│   ├── components/
+│   │   ├── Navbar.jsx / Navbar.css
+│   │   ├── Footer.jsx / Footer.css
+│   ├── context/
+│   │   └── CoinContext.jsx
+│   ├── pages/
+│   │   ├── Home.jsx / Home.css
+│   │   └── Coin.jsx / Coin.css
+│   ├── App.jsx
+│   ├── main.jsx
+├── package.json
+├── vite.config.js
+└── README.md
+
+````
+
+---
+
+##  Screenshots
+
+_Add screenshots of the homepage and UI here_
+
+---
+
+##  Live Demo
+
+**[Live Link](#)** — *Coming soon*
+
+---
+
+##  Installation
+
+```bash
+git clone https://github.com/your-username/cryptoplace.git
+cd cryptoplace
+npm install
+npm run dev
+````
+
+---
+
+##  GitHub Repo
+
+\[ Add your GitHub repo link here once pushed]
+
+---
+
+##  License
+
+This project is licensed under the MIT License.
+
+---
+
+##  Author
+
+* **Vishnu Pandey** — [LinkedIn]([https://www.linkedin.com/in/vishnu-pandey](https://www.linkedin.com/in/vishnu-pandey-3b2047360/))
+
+````
