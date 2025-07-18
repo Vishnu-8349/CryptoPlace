@@ -1,62 +1,114 @@
-##  CryptoPlace
+# CryptoPlace - Real-time Crypto Price Tracker
 
-CryptoPlace is a dynamic and responsive React.js application that displays real-time cryptocurrency market data using the CoinGecko API. It provides live information such as prices, market cap, and percentage changes for top cryptocurrencies in a clean, minimal UI.
+CryptoPlace is a sleek and responsive React-based web application that lets users monitor real-time cryptocurrency prices. Built with modern frontend tools, it offers detailed price charts, coin information, and seamless UX across devices.
 
-##  Features
+## Live Demo
 
--  Real-time data from [CoinGecko API](https://www.coingecko.com/en/api)
--  Fully responsive design using media queries
--  Top 10 cryptocurrencies display
--  Currency formatting with symbols
--  React Router and Context API integration
--  Clean component architecture (Navbar, Footer, CoinCard, etc.)
+Coming Soon – [Deployment in Progress]
 
-##  Tech Stack
+## Features
 
-- Frontend: React.js
-- Routing: React Router
-- State Management: React Context API
-- API: CoinGecko
-- Styling: CSS3 (Media Queries)
+ Search any cryptocurrency by name
+- Real-time price updates with historical charts (Google Charts)
+- Switch between INR and USD currencies
+- Detailed individual coin pages
+- Clean and minimal UI
+- Powered by CoinGecko API
 
-##  Folder Structure (Simplified)
+## Folder Structure
 
-cryptoPlace/
+```
+
+cryptoCurrency/
 ├── public/
 ├── src/
+│   ├── assets/           # Static files (e.g., images)
 │   ├── components/
-│   │   ├── Navbar.jsx / Navbar.css
-│   │   ├── Footer.jsx / Footer.css
+│   │   ├── Navbar/       # Navigation bar component
+│   │   ├── Footer/       # Footer component
 │   ├── context/
-│   │   └── CoinContext.jsx
+│   │   └── CoinContext   # Global state using Context API
 │   ├── pages/
-│   │   ├── Home.jsx / Home.css
-│   │   └── Coin.jsx / Coin.css
-│   ├── App.jsx
-│   ├── main.jsx
+│   │   ├── Home/         # Home page with coins listing
+│   │   └── Coin/         # Coin detail page
+│   ├── App.jsx           # Main app with routing
+│   ├── main.jsx          # ReactDOM entry point
 ├── package.json
-├── vite.config.js
-└── README.md
+└── README.md             # You're here!
 
-##  Installation
+````
 
-```bash
-git clone https://github.com/your-username/cryptoplace.git
-cd cryptoplace
-npm install
-npm run dev
+## Tech Stack
 
-##  GitHub Repo
+- React.js + Vite
+- Context API for state management
+- React Router DOM for routing
+- Google Charts for graphical data representation
+- CoinGecko API for fetching crypto data
+- CSS modules for styling
 
-[https://github.com/Vishnu-8349/CryptoPlace]
+---
+
+## Installation & Setup
+
+1. Clone the repo
+   ```bash
+   git clone https://github.com/YourUsername/CryptoPlace.git
+   cd CryptoPlace
+````
+
+2. Install dependencies
+
+   ```bash
+   npm install
+   ```
+
+3. Run the development server
+
+   ```bash
+   npm run dev
+   ```
+
+4. Build for production
+
+   ```bash
+   npm run build
+   ```
+
+---
+
+## API Used
+
+[CoinGecko API](https://www.coingecko.com/en/api): Free crypto market data API
+
+---
+
+## Acknowledgments
+
+* CoinGecko for free and reliable crypto data
+* React, Vite, and the open-source community
+
+---
+
+## Contact
+
+Feel free to connect or give feedback on [LinkedIn](https://www.linkedin.com/in/your-profile/)
+
+---
+
+## GitHub Repository
+
+[CryptoPlace Repo](https://github.com/YourUsername/CryptoPlace)
+
+---
+
+## Author
+
+Vishnu Pandey
+React Developer | MERN Stack Learner | Building projects daily
+[LinkedIn Profile](https://www.linkedin.com/in/vishnu-pandey-3b2047360/)
+
+````
 
 
-##  License
-
-This project is licensed under the MIT License.
-
-##  Author
-
-Vishnu Pandey — [LinkedIn]
-[https://www.linkedin.com/in/vishnu-pandey-3b2047360/]
 
