@@ -98,7 +98,7 @@ Feel free to connect or give feedback on [LinkedIn](https://www.linkedin.com/in/
 
 ## GitHub Repository
 
-[CryptoPlace Repo](https://github.com/YourUsername/CryptoPlace)
+[CryptoPlace Repo](https://github.com/Vishnu-8349/CryptoPlace)
 
 ---
 
