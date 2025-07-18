@@ -1,9 +1,6 @@
-```markdown
-#  CryptoPlace
+##  CryptoPlace
 
 CryptoPlace is a dynamic and responsive React.js application that displays real-time cryptocurrency market data using the CoinGecko API. It provides live information such as prices, market cap, and percentage changes for top cryptocurrencies in a clean, minimal UI.
-
----
 
 ##  Features
 
@@ -14,8 +11,6 @@ CryptoPlace is a dynamic and responsive React.js application that displays real-
 -  React Router and Context API integration
 -  Clean component architecture (Navbar, Footer, CoinCard, etc.)
 
----
-
 ##  Tech Stack
 
 - Frontend: React.js
@@ -24,11 +19,7 @@ CryptoPlace is a dynamic and responsive React.js application that displays real-
 - API: CoinGecko
 - Styling: CSS3 (Media Queries)
 
----
-
 ##  Folder Structure (Simplified)
-
-```
 
 cryptoPlace/
 ├── public/
@@ -47,22 +38,6 @@ cryptoPlace/
 ├── vite.config.js
 └── README.md
 
-````
-
----
-
-##  Screenshots
-
-_Add screenshots of the homepage and UI here_
-
----
-
-##  Live Demo
-
-[Live Link](#) — Coming soon
-
----
-
 ##  Installation
 
 ```bash
@@ -70,25 +45,18 @@ git clone https://github.com/your-username/cryptoplace.git
 cd cryptoplace
 npm install
 npm run dev
-````
-
----
 
 ##  GitHub Repo
 
 [https://github.com/Vishnu-8349/CryptoPlace]
 
----
 
 ##  License
 
 This project is licensed under the MIT License.
-
----
 
 ##  Author
 
 **Vishnu Pandey** — [LinkedIn]
 [https://www.linkedin.com/in/vishnu-pandey-3b2047360/]
 
-````
