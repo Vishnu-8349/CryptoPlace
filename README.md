@@ -57,6 +57,6 @@ This project is licensed under the MIT License.
 
 ##  Author
 
-**Vishnu Pandey** — [LinkedIn]
+Vishnu Pandey — [LinkedIn]
 [https://www.linkedin.com/in/vishnu-pandey-3b2047360/]
 
